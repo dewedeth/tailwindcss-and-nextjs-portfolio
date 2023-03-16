@@ -58,8 +58,12 @@ function Contact({}: Props) {
                 <button type="submit" className='bg-[#AB0AF7] py-5 px-10 rounded-md text-black font-bold text-lg'>Submit</button>
             </form>
         </div>
+        <br />
+        <iframe  src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=12&l=ur1&category=amazondevices&banner=00ZGY3Z4QEY1C5WY3182&f=ifr&linkID=5854dfd2507414773fc78a6995614c5c&t=yousef030-20&tracking_id=yousef030-20" width="300" height="250" scrolling="no" border="0" marginwidth="0" class="border:none;" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-top-navigation-by-user-activation"></iframe>
+        <br />
+        <iframe className='sm:hidden lg:block' src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=software&banner=1BHK0X94Y5YT7HT1V482&f=ifr&linkID=65bd6e726485ba03d3acdd32cf50defc&t=yousef030-20&tracking_id=yousef030-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" class="border:none;" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-top-navigation-by-user-activation"></iframe>
     </div>
-
+    
 
         
     </section>
